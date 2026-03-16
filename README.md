@@ -45,7 +45,7 @@ lib/
 
 1. Repoyu klonla:
 ```bash
-git clone https://github.com/KULLANICI_ADIN/mini_katalog.git
+git clone https://github.com/ALCUNE/mini_katalog-flutter.git
 cd mini_katalog
 ```
 
