@@ -62,8 +62,14 @@ flutter run
 ```
 
 ## Ekran Görüntüleri
+<img width="1080" height="2400" alt="Screenshot_1773672300" src="https://github.com/user-attachments/assets/6616418c-8b16-48bf-9a8a-28fdd55fddeb" />
+<img width="1080" height="2400" alt="Screenshot_1773672298" src="https://github.com/user-attachments/assets/cf0c6d35-e316-40f5-ad20-87d2bbd780c2" />
+<img width="1080" height="2400" alt="Screenshot_1773672287" src="https://github.com/user-attachments/assets/76d0c59a-89d7-4259-9aa8-52dee26dec0b" />
+<img width="1080" height="2400" alt="Screenshot_1773672283" src="https://github.com/user-attachments/assets/63b65dd4-5f6f-4ecc-915b-745dbd7e082f" />
+<img width="1080" height="2400" alt="Screenshot_1773672279" src="https://github.com/user-attachments/assets/55ce983d-caa0-44b6-b68d-18b18c046d6a" />
+<img width="1080" height="2400" alt="Screenshot_1773672273" src="https://github.com/user-attachments/assets/e468ee75-761b-4a95-a0be-946d9147a412" />
 
-> Ekran görüntüleri aşağıya eklenecektir.
+
 
 ## Hazırlayan
 
